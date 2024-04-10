@@ -1,3 +1,7 @@
+body {
+  background-color: tomato !important;
+}
+
 main .hero-container > div {
   max-width: unset;
 }
